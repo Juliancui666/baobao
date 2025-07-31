@@ -16,7 +16,7 @@ img = jetson_utils.loadImage(opt.filename)
 
 net = jetson_inference.imageNet(
     opt.network,
-    model="resenet18.onnx",
+    model="resnet18.onnx",
     input_blob="input_0",
     output_blob="output_o",
     labels="dataset/labels.txt",
