@@ -1,0 +1,9 @@
+dew
+fogsmog
+forest
+glaze
+hail
+lightning
+rain
+rainbow
+snow,rime
