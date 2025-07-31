@@ -18,7 +18,7 @@ net = jetson_inference.imageNet(
     opt.network,
     model="resnet18.onnx",
     input_blob="input_0",
-    output_blob="output_o",
+    output_blob="output_0",
     labels="dataset/labels.txt",
 
          )
