@@ -1,1 +1,1 @@
-happyhappyhppycdcmake ../cmake ../cdgit clone --recursive https://github.com/dusty-nv/jetson-iwget https://nvidia.box.com/shared/static/tlswont1jnyu3ix2tbf7utaekpzcx4rc.mkv -O jellyfish.mkverence
+happyhappyhppycdcmake ../cmake ../cd
